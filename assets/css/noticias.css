@@ -1,0 +1,528 @@
+/* Section - Block */
+/**************************/
+#parallaxn-world-of-ugg .block {
+    background: white;
+    padding: 50px;
+    width: 50px;
+    margin: 0 auto;
+}
+
+#parallaxn-world-of-ugg h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 100px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#parallaxn-world-of-ugg .block-gray {
+    background: #f2f2f2;
+    padding: 60px;
+}
+
+
+/* Section - parallaxn */
+/**************************/
+#parallaxn-world-of-ugg .parallaxn-one {
+    padding-top: 195px;
+    padding-bottom: 95px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url('../images/trading.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+
+/* Extras */
+/**************************/
+#parallaxn-world-of-ugg .line-break {
+    border-bottom: 1px solid black;
+    width: 150px;
+    margin: 0 auto;
+}
+
+/* Media Queries */
+/**************************/
+
+
+@media screen and (max-width: 959px) and (min-width: 768px) {
+    #parallaxn-world-of-ugg .block {
+        padding: 40px;
+        width: 620px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    #parallaxn-world-of-ugg .block {
+        padding: 30px;
+        width: 420px;
+    }
+
+    #parallaxn-world-of-ugg h2 {
+        font-size: 30px;
+        margin-top: 3rem;
+    }
+
+    #parallaxn-world-of-ugg .block {
+        padding: 30px;
+    }
+
+    #parallaxn-world-of-ugg .parallaxn-one {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    #parallaxn-world-of-ugg .block {
+        padding: 30px 15px;
+        width: 290px;
+    }
+}
+
+/*Parallax Educacion*/
+/* Section - Block */
+/**************************/
+#parallaxne-world-of-ugg .block {
+    background: white;
+    padding: 50px;
+    width: 820px;
+    margin: 0 auto;
+}
+
+#parallaxne-world-of-ugg h2 {
+    color: white;
+    margin-top: -5rem;
+    font-weight: bold;
+    font-size: 100px;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#parallaxne-world-of-ugg .block-gray {
+    background: #f2f2f2;
+    padding: 60px;
+}
+
+
+/* Section - parallaxn */
+/**************************/
+#parallaxne-world-of-ugg .parallaxne-one {
+    padding-top: 180px;
+    padding-bottom: 200px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-image: url('../images/educacion.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+
+
+/* Extras */
+/**************************/
+#parallaxne-world-of-ugg .line-break {
+    border-bottom: 1px solid black;
+    width: 150px;
+    margin: 0 auto;
+}
+
+/* Media Queries */
+/**************************/
+
+
+@media screen and (max-width: 959px) and (min-width: 768px) {
+    #parallaxne-world-of-ugg .block {
+        padding: 40px;
+        width: 620px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    #parallaxne-world-of-ugg .block {
+        padding: 30px;
+        width: 420px;
+    }
+
+    #parallaxne-world-of-ugg h2 {
+        font-size: 30px;
+        margin-top: 3rem;
+    }
+
+    #parallaxne-world-of-ugg .block {
+        padding: 30px;
+    }
+
+    #parallaxne-world-of-ugg .parallaxn-one {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+}
+
+@media screen and (max-width: 479px) {
+    #parallaxne-world-of-ugg .block {
+        padding: 30px 15px;
+        width: 290px;
+    }
+}
+
+#educacion {
+    background-color: #01bbccac;
+
+}
+
+.header-area {
+    position: sticky;
+}
+
+
+.MultiCarousel {
+    float: left;
+    overflow: hidden;
+    padding: 15px;
+    width: 100%;
+    position: relative;
+    
+   
+}
+
+
+.MultiCarousel .MultiCarousel-inner {
+    transition: 1s ease all;
+    float: left;
+ 
+}
+
+.MultiCarousel .MultiCarousel-inner .item {
+    float: left;
+
+  
+}
+
+.MultiCarousel .MultiCarousel-inner .item>div {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+background: white;
+    height: 25vh;
+    box-shadow: 10px 8px 8px #018a942f;
+ }
+
+ .deposito{
+    margin-top: .7rem;
+ }
+
+.lead, .lomas{
+    color: #018994;
+    font-weight: bold;
+}
+
+
+.lomas{
+    font-size: 12px;
+}
+
+
+.pad15{
+    margin-top: -5rem;
+    text-align: center;
+  vertical-align: middle;
+}
+
+.forex{
+    color:gray;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: .7rem;
+    margin-bottom: .7rem;
+}
+
+.MultiCarousel .leftLst,
+.MultiCarousel .rightLst {
+    position: absolute;
+    border-radius: 50%;
+    top: calc(50% - 20px);
+}
+
+.MultiCarousel .leftLst {
+    left: 0;
+    background: #018994;
+}
+
+.MultiCarousel .rightLst {
+    right: 0;
+    background: #018994;
+}
+
+
+.MultiCarousel .leftLst.over,
+.MultiCarousel .rightLst.over {
+    pointer-events: none;
+    background: #018994;
+}
+
+
+
+div.flex-container-logos {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-flow: row wrap;
+    width: 100%;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+div.flex-items {
+    width: 200px;
+}
+
+.picture {
+    max-width: 100%;
+    display: inline-block;
+    line-height: 0;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.img-plataformas {
+    margin-left: 12rem;
+    max-width: 50%;
+
+}
+
+.how-section1 {
+    margin-top: -15%;
+    padding: 10%;
+}
+
+.how-section1 h4 {
+    color: #018994;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.how-section1 .subheading {
+    color: #01bbcc;
+    font-size: 20px;
+}
+
+.how-section1 .row {
+    margin-top: 10%;
+}
+
+.how-img {
+    text-align: center;
+}
+
+.how-img img {
+    width: 70%;
+    border-radius: 10px;
+}
+
+.img-fruc{
+    margin-top: 5rem;
+}
+
+.img-trad{
+    margin-top: 2rem;
+}
+
+.nums{
+    font-size: 50px;
+    margin-bottom: 20rem;
+}
+
+.img-conf{
+    margin-top: -1rem;
+}
+
+/*Noticias*/
+.a-noticias {
+    color: #01bbcc;
+    font-weight: bold;
+}
+
+.a-noticias:hover {
+    color: #018994;
+}
+
+.slide-container{
+  max-width: 1120px;
+  width: 100%;
+  padding: 40px 0;
+}
+.slide-content{
+  margin: 0 40px;
+  overflow: hidden;
+  border-radius: 25px;
+}
+.card{
+  border-radius: 25px;
+  background-color: #FFF;
+}
+.image-content,
+.card-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 14px;
+}
+.image-content{
+  position: relative;
+  row-gap: 5px;
+  padding: 25px 0;
+}
+.overlay{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #4070F4;
+  border-radius: 25px 25px 0 25px;
+}
+.overlay::before,
+.overlay::after{
+  content: '';
+  position: absolute;
+  right: 0;
+  bottom: -40px;
+  height: 40px;
+  width: 40px;
+  background-color: #4070F4;
+}
+.overlay::after{
+  border-radius: 0 25px 0 0;
+  background-color: #FFF;
+}
+.card-image{
+  position: relative;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background: #FFF;
+  padding: 3px;
+}
+.card-image .card-img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #4070F4;
+}
+.name{
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
+}
+.description{
+  font-size: 14px;
+  color: #707070;
+  text-align: center;
+}
+.button{
+  border: none;
+  font-size: 16px;
+  color: #FFF;
+  padding: 8px 16px;
+  background-color: #4070F4;
+  border-radius: 6px;
+  margin: 14px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.button:hover{
+  background: #265DF2;
+}
+
+.swiper-navBtn{
+  color: #6E93f7;
+  transition: color 0.3s ease;
+}
+.swiper-navBtn:hover{
+  color: #4070F4;
+}
+.swiper-navBtn::before,
+.swiper-navBtn::after{
+  font-size: 35px;
+}
+.swiper-button-next{
+  right: 0;
+}
+.swiper-button-prev{
+  left: 0;
+}
+.swiper-pagination-bullet{
+  background-color: #6E93f7;
+  opacity: 1;
+}
+.swiper-pagination-bullet-active{
+  background-color: #4070F4;
+}
+
+@media screen and (max-width: 768px) {
+  .slide-content{
+    margin: 0 10px;
+  }
+  .swiper-navBtn{
+    display: none;
+  }
+}
+
+/*CARDS FOREX*/
+/* Float four columns side by side */
+.columnforex {
+    float: left;
+    width: 50%;
+    padding: 0 50px;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  .rowforex {margin: 0px;}
+  
+  /* Clear floats after the columns */
+  .rowforex:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive columns */
+  @media screen and (max-width: 900px) {
+    .columnforex {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .cardforex {
+    padding: 16px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 4px #018a942f;
+    height: 65vh;
+    text-align: center;
+  }
+
+  
