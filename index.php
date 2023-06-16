@@ -434,7 +434,7 @@ include 'conn.php';
 
 
 
-            <li><a href="#eventos" class="scrollto">Eventos</a></li>
+            <!-- <li><a href="#eventos" class="scrollto">Eventos</a></li> -->
 
 
 
@@ -2303,10 +2303,97 @@ include 'conn.php';
     <!-- ***** Features Big Item End ***** -->
 
 
+    <!-- ***** Representantes e ***** -->
+
+
+
+    <section class="section" id="filiales">
+
+
+
+        <div class="container">
+
+
+
+            <div class="row">
+
+
+
+                <div class="col-lg-8 offset-lg-2">
+
+
+
+                    <div class="center-heading">
+
+
+
+                        <h2 data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">NUESTRA<em> PRESENCIA</em>
+
+
+
+                        </h2>
+
+
+
+                        <p data-scroll-reveal="enter right move 30px over 0.6s after 0.6s">
+
+
+
+                            ¡Conoce nuestra presencia alrededor del mundo!
+
+
+
+                        </p>
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+                <div class="container">
+  <div class="row">
+    <div class="col-sm">
+    <img src="assets/images/CDMX.jpg" class="img-fluid card-img-top mt-3">
+    </div>
+    <div class="col-sm">
+    <img src="assets/images/Chihuahua.jpg" class="img-fluid card-img-top mt-3">
+    </div>
+    <div class="col-sm">
+    <img src="assets/images/Durango.jpg" class="img-fluid card-img-top mt-3">
+    </div>
+    <div class="col-sm">
+    <img src="assets/images/Laguna.jpg" class="img-fluid card-img-top mt-3">
+    </div>
+    <div class="col-sm">
+    <img src="assets/images/riviera.jpg" class="img-fluid card-img-top mt-3">
+    </div>
+  </div>
+</div>
 
 
 
 
+        <!--<div class="text-center locations">-->
+
+
+
+        <!--  <img src="assets/images/mapalocaciones.png" class="img-fluid" alt="" />-->
+
+
+
+        <!--</div>-->
+
+
+
+    </section>
+
+
+
+    <!-- ***** filiales Ends ***** -->
 
     <!-- ***** filiales Starts ***** -->
 
@@ -2344,7 +2431,7 @@ include 'conn.php';
 
 
 
-                            ¡Conoce nuestra presencia alrededor del mundo!
+                            ¡Conoce a nuestros aliados alrededor del mundo!
 
 
 
@@ -2559,6 +2646,12 @@ include 'conn.php';
 
 
     <!-- ***** filiales Ends ***** -->
+
+
+
+
+
+
 
 
 
@@ -3999,6 +4092,14 @@ include 'conn.php';
                                         title="Visita nuestra página de Facebook" class="facebook" target="_blank"><i
 
                                             class="fa fa-facebook"></i></a>
+
+                                    
+                                    <a href="https://www.youtube.com/@uptradingexperts"
+
+                                        title="Visita nuestra página de Facebook" class="facebook" target="_blank"><i
+
+                                            class="fa fa-youtube-play"></i></a>
+
 
 
 
