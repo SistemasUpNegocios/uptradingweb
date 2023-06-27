@@ -4092,15 +4092,13 @@ include 'conn.php';
                                         title="Visita nuestra página de Facebook" class="facebook" target="_blank"><i
 
                                             class="fa fa-facebook"></i></a>
-
-                                    
+                                            
+                                                                 
                                     <a href="https://www.youtube.com/@uptradingexperts"
 
                                         title="Visita nuestra página de Facebook" class="facebook" target="_blank"><i
 
                                             class="fa fa-youtube-play"></i></a>
-
-
 
 
                                     <a href="https://www.instagram.com/uptradingexperts/"
